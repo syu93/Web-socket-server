@@ -1,0 +1,18 @@
+Connection 45 sending message "{"data":"plop","path":"/path/to/plop"}" to 0 other connections
+<pre>array(2) {
+  ["data"]=>
+  string(4) "plop"
+  ["path"]=>
+  string(13) "/path/to/plop"
+}
+</pre>Connection 45 sending message "{"data":"plop","path":"/path/to/plop"}" to 0 other connections
+<pre>array(2) {
+  ["data"]=>
+  string(4) "plop"
+  ["path"]=>
+  string(13) "/path/to/plop"
+}
+</pre>Terminated
+New connection! (45)
+Connection 45 sending message "{"data":"plop","path":"/path/to/plop"}" to 0 other connections
+Terminated
